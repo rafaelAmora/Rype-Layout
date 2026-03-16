@@ -15,7 +15,7 @@ Interface web da Rype, uma plataforma gamer com foco em comunidade, gestão de t
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/rype-frontend.git
+git clone https://github.com/rafaelAmora/rype-frontend.git
 cd rype-frontend
 npm install
 npm run dev
